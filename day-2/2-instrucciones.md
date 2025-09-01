@@ -1,4 +1,4 @@
-# #7DaysOfCode - Lógica JS 1/7: Variables
+# #7DaysOfCode - Lógica JS 2/7: Variables
 
 ¿Sabes cuando te registras en un sitio web y, justo después, al iniciar sesión, te llama por tu nombre? Eso es lo que harás en el desafío de hoy.
 
