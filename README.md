@@ -46,10 +46,10 @@ Existen dos formas sencillas de probar la solución de cada día:
 
 ## Progreso del Desafío
 
-- **Día 1:** Operaciones Booleanas ✅
-- **Día 2:**
-- **Día 3:**
-- **Día 4:**
-- **Día 5:**
-- **Día 6:**
-- **Día 7:**
+- **Día 1:** ✅ Operaciones Booleanas
+- **Día 2:** ✅ Variables
+- **Día 3:** ✅ Estructuras de control de flujo
+- **Día 4:** ✅ Mas loops y randomización
+- **Día 5:** ✅ Arrays y colecciones
+- **Día 6:** ✅ Remoción de arrays
+- **Día 7:** ✅ Funciones en javascript
